@@ -4,12 +4,6 @@ Is a fully responsive website for a gym with 5 sections and smooth scroll reveal
 
 ---
 
-## Live Demo
-
-https://auzair-17.github.io/berotot-gym/
-
----
-
 ## Screenshots
 
 ![Home Page](./screenshots/Home.png)
