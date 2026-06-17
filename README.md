@@ -52,8 +52,4 @@ cd kdr-movies
 npm run dev
 ```
 
-## Author
 
-**Auzair**
-
-- Github: https://github.com/auzair-17
